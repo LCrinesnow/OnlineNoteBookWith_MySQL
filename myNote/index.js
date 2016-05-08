@@ -307,6 +307,6 @@ app.get('/detail/:id',function(req,res){//:id从url匹配过来的id这里的id�
 
 
 
-app.listen(3000, function(req,res){
+app.listen(3001, function(req,res){
     console.log('app is running at port 3000');
 });
